@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funciones de Evaluación - Medir el Aprendizaje</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Función de Evaluación: Medir el Aprendizaje</h1>
+    <p>La función de evaluación "Medir el Aprendizaje" es esencial en el proceso educativo. Consiste en evaluar y cuantificar el nivel de conocimiento y las habilidades que un estudiante ha adquirido durante un período de aprendizaje específico. Esta función tiene varios propósitos clave:</p>
+
+    <h2>Propósitos de Medir el Aprendizaje:</h2>
+    <ol>
+        <li><strong>Evaluar el Progreso:</strong> La evaluación permite a los educadores medir el progreso de los estudiantes en relación con los objetivos de aprendizaje establecidos.</li>
+        <li><strong>Determinar el Rendimiento:</strong> Ayuda a identificar qué estudiantes están alcanzando los estándares esperados y cuáles pueden necesitar apoyo adicional.</li>
+        <li><strong>Facilitar la Toma de Decisiones:</strong> Los resultados de la evaluación son útiles para que los tutores tomen decisiones informadas sobre la instrucción y el plan de estudios.</li>
+        <li><strong>Motivar a los Estudiantes:</strong> La posibilidad de recibir retroalimentación y calificaciones motiva a los estudiantes a esforzarse y alcanzar sus objetivos académicos.</li>
+    </ol>
+
+    <h2>Métodos de Evaluación:</h2>
+    <p>Para medir el aprendizaje, se utilizan diversos métodos de evaluación, que incluyen:</p>
+    <ul>
+        <li><strong>Pruebas y Exámenes:</strong> Preguntas escritas u orales diseñadas para evaluar el conocimiento y la comprensión del material.</li>
+        <li><strong>Trabajos y Tareas:</strong> Asignaciones escritas, proyectos o actividades que demuestran la aplicación de habilidades y conceptos aprendidos.</li>
+        <li><strong>Observación:</strong> Los educadores pueden observar el desempeño de los estudiantes en situaciones prácticas o actividades en el aula.</li>
+        <li><strong>Portafolios:</strong> Colecciones de trabajos y proyectos que muestran el progreso a lo largo del tiempo.</li>
+    </ul>
+
+    <p>En resumen, la función de evaluación "Medir el Aprendizaje" desempeña un papel crucial en la educación al proporcionar información valiosa sobre el progreso de los estudiantes y ayudar a los tutores a tomar decisiones educativas efectivas.</p>
+    
+    <footer>
+        <p>Este artículo es parte del Wiki de Evaluación. Volver al <a href="index.html">índice</a>.</p>
+    </footer>
+</body>
+</html>
